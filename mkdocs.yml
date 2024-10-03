@@ -1,4 +1,4 @@
-site_name: {{SITE_NAME}}
+site_name: sim_sooner
 theme:
   name: material
   language: en
